@@ -767,7 +767,7 @@ form button.btn-primary:hover {
     1 - Footer
 ------------------------------------*/
 footer {
-  background: url(../images/bg3.jpeg) center center/cover no-repeat #26264b;
+  background: url(../images/bg-footer.jpg) center center/cover no-repeat #26264b;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
