@@ -6,3 +6,5 @@ Disallow: /public/logo192.png
 Disallow: /public/logo512.png
 Disallow: /src/app.css
 Disallow: /src/index.css
+
+Sitemap: http://www.intama.info/sitemap.xml
