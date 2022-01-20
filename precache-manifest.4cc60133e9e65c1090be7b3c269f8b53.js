@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ac52000fc92bad7f5340cd2ecbf79cc",
+    "revision": "6a27e0bedf79d079a6116b126441f01d",
     "url": "/intama-profile/index.html"
   },
   {
-    "revision": "f6c1b96a4d06bcac0b4f",
+    "revision": "1267a3de3545f9c709af",
     "url": "/intama-profile/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/intama-profile/static/js/2.1b961fa8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f6c1b96a4d06bcac0b4f",
-    "url": "/intama-profile/static/js/main.d71735a2.chunk.js"
+    "revision": "1267a3de3545f9c709af",
+    "url": "/intama-profile/static/js/main.2b88a1c4.chunk.js"
   },
   {
     "revision": "f87a3dbeb3c074361895",
