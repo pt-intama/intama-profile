@@ -3,10 +3,7 @@ import React, { Component } from 'react';
 import {NavDropdown, Nav, Navbar} from 'react-bootstrap';
 class Footer extends Component {
     render() {
-      return (
-        
       
-      );
     }
 }
 

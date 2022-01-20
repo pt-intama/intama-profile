@@ -1,6 +1,6 @@
-import React, { Component, useState } from 'react';
+import React, { Component } from 'react';
 // import { Link,NavLink } from 'react-router-dom';
-import {Nav, Col, Tab, Row, Tabs, TabContainer, Button} from 'react-bootstrap';
+import {Nav, Col, Tab, Row, Button} from 'react-bootstrap';
 
 class Career extends Component {
     render() {

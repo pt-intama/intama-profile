@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import * as emailjs from 'emailjs-com'
-import { Button, FormFeedback, Form, FormGroup, Label, Input, Layouts } from 'reactstrap'
+import { Button, Form, FormGroup, Label, Input } from 'reactstrap'
 import {Col, Row, TabContainer} from 'react-bootstrap'
 
 
@@ -14,7 +14,7 @@ class Apply extends Component {
   }
 handleSubmit(e) {
     e.preventDefault()
-    const { name, email, subject, message } = this.state
+    const { email, subject, message } = this.state
     let templateParams = {
       from_name: email,
       to_name: '<YOUR_EMAIL_ID>',
