@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/intama-profile/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/intama-profile/static/js/main.2b88a1c4.chunk.js",
-    "main.js.map": "/intama-profile/static/js/main.2b88a1c4.chunk.js.map",
-    "runtime-main.js": "/intama-profile/static/js/runtime-main.47976715.js",
-    "runtime-main.js.map": "/intama-profile/static/js/runtime-main.47976715.js.map",
-    "static/js/2.1b961fa8.chunk.js": "/intama-profile/static/js/2.1b961fa8.chunk.js",
-    "static/js/2.1b961fa8.chunk.js.map": "/intama-profile/static/js/2.1b961fa8.chunk.js.map",
-    "index.html": "/intama-profile/index.html",
-    "precache-manifest.4cc60133e9e65c1090be7b3c269f8b53.js": "/intama-profile/precache-manifest.4cc60133e9e65c1090be7b3c269f8b53.js",
-    "service-worker.js": "/intama-profile/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/intama-profile/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.1b961fa8.chunk.js.LICENSE.txt": "/intama-profile/static/js/2.1b961fa8.chunk.js.LICENSE.txt"
+    "main.css": "https://www.intama.info/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "https://www.intama.info/static/js/main.d5d70f40.chunk.js",
+    "main.js.map": "https://www.intama.info/static/js/main.d5d70f40.chunk.js.map",
+    "runtime-main.js": "https://www.intama.info/static/js/runtime-main.8b6217e5.js",
+    "runtime-main.js.map": "https://www.intama.info/static/js/runtime-main.8b6217e5.js.map",
+    "static/js/2.1b961fa8.chunk.js": "https://www.intama.info/static/js/2.1b961fa8.chunk.js",
+    "static/js/2.1b961fa8.chunk.js.map": "https://www.intama.info/static/js/2.1b961fa8.chunk.js.map",
+    "index.html": "https://www.intama.info/index.html",
+    "precache-manifest.3f7caf60ed2e77ccb2e752e07ac9ae36.js": "https://www.intama.info/precache-manifest.3f7caf60ed2e77ccb2e752e07ac9ae36.js",
+    "service-worker.js": "https://www.intama.info/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "https://www.intama.info/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.1b961fa8.chunk.js.LICENSE.txt": "https://www.intama.info/static/js/2.1b961fa8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.47976715.js",
+    "static/js/runtime-main.8b6217e5.js",
     "static/js/2.1b961fa8.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.2b88a1c4.chunk.js"
+    "static/js/main.d5d70f40.chunk.js"
   ]
 }
