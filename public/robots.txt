@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /public/assets
+Disallow: /public/favicon.ico
+Disallow: /public/faviconReact.ico
+Disallow: /public/logo192.png
+Disallow: /public/logo512.png
+Disallow: /src/app.css
+Disallow: /src/index.css
