@@ -12,7 +12,7 @@ global.jQuery = $;
 class App extends Component {
   render() {
     return (
-      <Router basename={process.env.PUBLIC_URL}>
+      <Router>
         <Switch>
           <Route exact path="/" component={Home} />
           <Route exact path="/Career" component={Career} />
