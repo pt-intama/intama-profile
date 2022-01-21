@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://www.intama.info/precache-manifest.41f4770ea528c0c6e1eeb1974ec743b6.js"
+  "https://www.intama.info/precache-manifest.d7f9f0b34adc19d1138ffdfc6e370827.js"
 );
 
 self.addEventListener('message', (event) => {
